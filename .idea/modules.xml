@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AutoTestAppium.iml" filepath="$PROJECT_DIR$/AutoTestAppium.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/demotest/demotest.iml" filepath="$PROJECT_DIR$/demotest/demotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peojectdemo/peojectdemo.iml" filepath="$PROJECT_DIR$/peojectdemo/peojectdemo.iml" />
     </modules>
   </component>
 </project>
